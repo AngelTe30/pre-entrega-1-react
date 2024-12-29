@@ -1,0 +1,6 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0; /* Asegura que no haya margenes que afecten el layout*/
+  }
